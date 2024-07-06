@@ -11,6 +11,8 @@ This fully javaScript code used this package is using roles & Permission.
 please flow steps
 
 1. 9 tables depence on the table so am attached migration file and models file and seeder files.
+ support file git link
+   https://github.com/JothiManikandan28/RP_Support_files.git
 
 2. this package use place require package
 
@@ -908,4 +910,5 @@ module.exports = router;
 
 If you would like to contribute, you are welcome. clone repositrory and open pull request.
 
+  https://github.com/JothiManikandan28/roles_permissions.git
 
